@@ -1,5 +1,7 @@
-body{background-color:antiquewhite}
+body{background-color:antiquewhite; animation:fade-text-anim}
 h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 text-size-adjust: 20; text-align: center; color:rgb(58, 221, 200)}
-h2{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: rgb(58, 221, 200)}
-h3{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: rgb(58, 221, 200)}
+h2{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: rgb(58, 221, 200); font-size:25px}
+h3{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: rgb(58, 221, 200); font-size:20px}
+img{ border: 2px solid rgb(115, 0, 255);
+    border-radius: 15px; border-style:groove}
